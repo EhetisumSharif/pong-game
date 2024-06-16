@@ -9,8 +9,10 @@ WINDOW_HEIGHT = 600
 PADDLE_WIDTH = 10
 PADDLE_HEIGHT = 100
 BALL_SIZE = 30
-PADDLE_MOVE_DISTANCE = 50  # Increase paddle move distance
-INITIAL_BALL_SPEED_X = 4   # Increase initial ball speed
+# Increase paddle move distance
+PADDLE_MOVE_DISTANCE = 50  
+# Increase initial ball speed
+INITIAL_BALL_SPEED_X = 4   
 INITIAL_BALL_SPEED_Y = 4
 
 # Initialize Pygame mixer
